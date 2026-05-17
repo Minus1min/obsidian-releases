@@ -26689,5 +26689,12 @@
     "author": "Kasukabe Tsumugi",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Render Liuyao hexagrams from fenced code blocks.",
     "repo": "baendlorel/obsidian-liuyao"
+  },
+  {
+    "id": "energy-tracker",
+    "name": "30-Day Energy Log",
+    "author": "Minus1min",
+    "description": "Track your 30-day energy rhythm across 6 daily time slots. Log energy levels and activities (energizing / neutral / draining). Export data with a built-in AI analysis prompt. Supports English and 中文.",
+    "repo": "Minus1min/obsidian-energy-tracker"
   }
 ]
